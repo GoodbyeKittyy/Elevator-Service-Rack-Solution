@@ -5,6 +5,7 @@ The system assumes that by the time an inbound item arrives at the pickup positi
 ## 3D Animation 
 
 https://github.com/GoodbyeKittyy/Elevator-Service-Rack-Solution/assets/161730857/18ac2748-6ef2-409f-abf6-6052a11efac4
+
 </br></br>
 
 ## Live Process Flowchart
